@@ -30,3 +30,19 @@ Hobby: Reading
 Favorite Food: Pizza
 Favorite Color: Blue
 ===================================
+## Setup Instructions
+1. Install Python from https://www.python.org
+2. Open terminal or command prompt
+3. Navigate to the project folder
+4. Run the command:
+
+
+## Screenshots
+![Program Execution](github.jpeg)
+
+## Explanation of Requirements
+- Used variables to store name, age, city, and hobby
+- Used input() to collect favorite food and color
+- Applied basic validation for empty input
+- Used f-strings for formatted output
+- Calculated age in months using age * 12
